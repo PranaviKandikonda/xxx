@@ -1,0 +1,5 @@
+This file is created in the feature-1 branch.
+
+This file won't be visible in the main branch.
+
+You can merge the two branches so that all the files will be visible.
