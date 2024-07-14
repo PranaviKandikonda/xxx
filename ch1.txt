@@ -1,3 +1,5 @@
 xxx is a local repository.
 ch1.txt is a file in that repository.
 we are going to push this local repository(xxx) onto a remote repository(also named xxx) which we created in the git hub.
+
+A new line is added and the changes are saved using git commit.
